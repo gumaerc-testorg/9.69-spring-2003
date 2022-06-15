@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides information on an on-line discussion forum used
+  to discuss recitation topics.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: f6da0c13-0c80-9488-86ec-395c223b1c9d
 ---

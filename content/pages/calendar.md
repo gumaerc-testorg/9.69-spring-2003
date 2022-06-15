@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, recitations, and
+  exams.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: 9dc9fcd1-c97a-e630-2bb0-285c77aa7977
 ---

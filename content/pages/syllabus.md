@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, recitations, requirements, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: e9681bb7-86e0-cf8f-0823-6b829e0013d4
 ---
@@ -27,7 +28,7 @@ At least one subject in cognitive science, psychology, philosophy, linguistics, 
 Recitations
 -----------
 
-For five weeks during the term, class will only meet once per week for a recitation with the TA. These weeks are indicated on the {{< resource_link 9dc9fcd1-c97a-e630-2bb0-285c77aa7977 "schedule" >}} by the word RECITATION in bold capital letters.
+For five weeks during the term, class will only meet once per week for a recitation with the TA. These weeks are indicated on the {{% resource_link 9dc9fcd1-c97a-e630-2bb0-285c77aa7977 "schedule" %}} by the word RECITATION in bold capital letters.
 
 Attendance and participation in these recitations is mandatory. Recitations will take a discussion format focusing on topics from lectures and course reading materials. 10% of the grade for the course comes from participation in recitation section.
 
@@ -39,4 +40,4 @@ Requirements and Grading
 20% - Submissions to the on-line discussion forum.  
 20% - Participation in recitation.
 
-In addition to the above requirements, graduate students must also write a 10-page paper on one of the topics from the {{< resource_link 71c8fbd7-1ac6-7f9b-e0fc-ef04fbde3b1f "reading list" >}}.
+In addition to the above requirements, graduate students must also write a 10-page paper on one of the topics from the {{% resource_link 71c8fbd7-1ac6-7f9b-e0fc-ef04fbde3b1f "reading list" %}}.
